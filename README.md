@@ -45,8 +45,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
   </a>
   <a href="https://www.argo-project.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argo/argo-original-wordmark.svg" alt="argo" width="40" height="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argo/argo-original-wordmark.svg" alt="argo" width="40" height="40" onError="this.onerror=null;this.src='https://upload.wikimedia.org/wikipedia/commons/7/7b/Argo_Logo.svg';" />
+</a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> 
   </a>

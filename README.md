@@ -1,7 +1,50 @@
 # Hi there, I'm Gilbert Cheruiyot 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=66C4A7&center=true&vCenter=true&width=435&lines=AI+Solutions+Architect;Cloud+%26+DevOps+Engineer;Technical+Writer" alt="Typing SVG" />
+  <!-- Animated Neural Network Background -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbertofke/gilbertofke/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gilbertofke/gilbertofke/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=Democratizing+AI+Development;MCP+Explorer+%26+Open+Source+Advocate;Building+Accessible+Intelligence+with+%E2%99%A5" alt="Typing SVG" />
+  
+  <!-- Current Focus Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Currently_Learning-MCP_Architecture-9C27B0?style=flat&logo=ai&logoColor=white" alt="MCP">
+    <img src="https://img.shields.io/badge/Exploring-Lovable.dev-66C4A7?style=flat&logo=codeberg&logoColor=white" alt="Lovable">
+    <img src="https://img.shields.io/badge/Building-AI_Accessibility_Tools-E1E6F0?style=flat&logo=github&logoColor=black" alt="Tools">
+  </p>
+
+  <!-- AI Democratization Statement -->
+  <blockquote>
+    <p align="center">
+      "I turn complex AI concepts into intuitive tools using <strong>MCP patterns</strong> and <strong>vibe-coding principles</strong>.<br>
+      Let's build AI solutions that empower <em>every developer</em>, not just experts."
+    </p>
+  </blockquote>
+
+  <!-- Tech Stack Carousel -->
+  <div class="tech-stack">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Cursor_AI-66C4A7?style=for-the-badge&logo=ai&logoColor=white" alt="Cursor AI"/>
+    <img src="https://img.shields.io/badge/MCP_Protocol-9C27B0?style=for-the-badge&logo=protocols-dot-io&logoColor=white" alt="MCP"/>
+  </div>
+
+  <!-- Visitor Counter -->
+  <p>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgilbertofke&label=AI%20Explorers&countColor=%239C27B0" alt="Visitors"/>
+  </p>
+</div>
+
+<!-- Wave Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/wave.svg" width="100%" height="50" alt="wave divider"/>
 </div>
 
 ## About Me 🚀

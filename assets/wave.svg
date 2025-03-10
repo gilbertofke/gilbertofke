@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440" height="100" viewBox="0 0 1440 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .wave {
+      animation: wave 8s linear infinite;
+      transform-origin: center;
+    }
+    @keyframes wave {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+  </style>
+  <g class="wave">
+    <path d="M0 50 C360 0, 720 100, 1080 50 C1440 0, 1800 100, 2160 50 L2160 100 L0 100 Z" fill="url(#gradient)">
+      <animate attributeName="d" 
+        values="M0 50 C360 0, 720 100, 1080 50 C1440 0, 1800 100, 2160 50 L2160 100 L0 100 Z;
+                M0 50 C360 100, 720 0, 1080 50 C1440 100, 1800 0, 2160 50 L2160 100 L0 100 Z;
+                M0 50 C360 0, 720 100, 1080 50 C1440 0, 1800 100, 2160 50 L2160 100 L0 100 Z"
+        dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="100%" y2="0">
+      <stop offset="0%" style="stop-color:#66C4A7"/>
+      <stop offset="50%" style="stop-color:#9C27B0"/>
+      <stop offset="100%" style="stop-color:#66C4A7"/>
+    </linearGradient>
+  </defs>
+</svg> 

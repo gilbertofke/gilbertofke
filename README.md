@@ -2,11 +2,10 @@
 
 <div align="center">
   <!-- Profile Image with Enhanced Styling -->
-  <div style="margin: 40px auto;">
-    <img width="260" height="260" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/avi.jpg" alt="Gilbert Cheruiyot" 
-      style="border-radius: 50%; border: 3px solid #66C4A7; padding: 4px; background: linear-gradient(45deg, #66C4A7 0%, #9C27B0 100%); box-shadow: 0 0 25px rgba(102, 196, 167, 0.3);"
-    />
-  </div>
+  <img width="260" height="260" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/avi.jpg" alt="Gilbert Cheruiyot" 
+    style="border-radius: 130px; border: 3px solid #66C4A7;" 
+  />
+  <br/><br/>
 
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=AI+Solutions+Architect+%26+Engineer;Building+Intelligent+Systems;Making+AI+Accessible+%26+Practical" alt="Typing SVG" />

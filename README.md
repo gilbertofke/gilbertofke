@@ -1,10 +1,9 @@
 # Hi there, I'm Gilbert Cheruiyot 👋
 
 <div align="center">
-  <!-- Profile Picture with Styling -->
-  <img width="200" height="200" src="https://github.com/gilbertofke.png" alt="Gilbert Cheruiyot" 
-    style="border-radius: 50%; border: 4px solid #66C4A7; box-shadow: 0 0 20px rgba(102, 196, 167, 0.5);"
-  />
+  <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px; margin: 0 auto; border: 4px solid #66C4A7; box-shadow: 0 0 20px rgba(102, 196, 167, 0.5);">
+    <img width="200" height="200" src="assets/avi.jpg" alt="Gilbert Cheruiyot" style="object-fit: cover;" />
+  </div>
 
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=Democratizing+AI+Development;MCP+Explorer+%26+Open+Source+Advocate;Building+Accessible+Intelligence+with+%E2%99%A5" alt="Typing SVG" />

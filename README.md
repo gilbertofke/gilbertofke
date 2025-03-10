@@ -1,25 +1,28 @@
 # Hi there, I'm Gilbert Cheruiyot 👋
 
 <div align="center">
-  <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px; margin: 0 auto; border: 4px solid #66C4A7; box-shadow: 0 0 20px rgba(102, 196, 167, 0.5);">
-    <img width="200" height="200" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/avi.jpg" alt="Gilbert Cheruiyot" style="object-fit: cover;" />
+  <!-- Profile Image with Enhanced Styling -->
+  <div style="margin: 40px auto;">
+    <img width="260" height="260" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/avi.jpg" alt="Gilbert Cheruiyot" 
+      style="border-radius: 50%; border: 3px solid #66C4A7; padding: 4px; background: linear-gradient(45deg, #66C4A7 0%, #9C27B0 100%); box-shadow: 0 0 25px rgba(102, 196, 167, 0.3);"
+    />
   </div>
 
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+%26+Tools;MCP+Explorer+%26+Open+Source+Advocate;Making+AI+Accessible+for+Everyone" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=AI+Solutions+Architect+%26+Engineer;Building+Intelligent+Systems;Making+AI+Accessible+%26+Practical" alt="Typing SVG" />
   
-  <!-- Current Focus Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Currently_Learning-MCP_Architecture-9C27B0?style=flat&logo=ai&logoColor=white" alt="MCP">
-    <img src="https://img.shields.io/badge/Exploring-Lovable.dev-66C4A7?style=flat&logo=codeberg&logoColor=white" alt="Lovable">
-    <img src="https://img.shields.io/badge/Building-AI_Accessibility_Tools-E1E6F0?style=flat&logo=github&logoColor=black" alt="Tools">
+  <!-- Enhanced Focus Badges -->
+  <p style="margin: 30px 0;">
+    <img src="https://img.shields.io/badge/Focus-AI_Architecture-9C27B0?style=flat-square&logo=ai&logoColor=white" alt="AI Architecture">
+    <img src="https://img.shields.io/badge/Building-Cognitive_Systems-66C4A7?style=flat-square&logo=brain&logoColor=white" alt="Cognitive Systems">
+    <img src="https://img.shields.io/badge/Exploring-AI_Accessibility-E1E6F0?style=flat-square&logo=accessibility&logoColor=black" alt="AI Accessibility">
   </p>
 
-  <!-- AI Democratization Statement -->
+  <!-- Refined Mission Statement -->
   <blockquote>
     <p align="center">
-      "I turn complex AI concepts into intuitive tools using <strong>MCP patterns</strong> and <strong>vibe-coding principles</strong>.<br>
-      Let's build AI solutions that empower <em>every developer</em>, not just experts."
+      "Bridging the gap between complex AI systems and practical solutions through <strong>innovative architectures</strong> and <strong>accessible tools</strong>.<br>
+      Committed to making AI technology <em>understandable</em>, <em>practical</em>, and <em>accessible to all developers</em>."
     </p>
   </blockquote>
 

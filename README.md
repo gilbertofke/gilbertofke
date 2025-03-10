@@ -1,11 +1,8 @@
 # Hi there, I'm Gilbert Cheruiyot 👋
 
 <div align="center">
-  <!-- Profile Image with Enhanced Styling -->
-  <img width="260" height="260" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/avi.jpg" alt="Gilbert Cheruiyot" 
-    style="border-radius: 130px; border: 3px solid #66C4A7;" 
-  />
-  <br/><br/>
+  <!-- AI-Themed Header -->
+  <img width="100%" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/ai-header.svg" alt="AI Theme Header" />
 
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=AI+Solutions+Architect+%26+Engineer;Building+Intelligent+Systems;Making+AI+Accessible+%26+Practical" alt="Typing SVG" />

@@ -6,7 +6,7 @@
   </div>
 
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=Democratizing+AI+Development;MCP+Explorer+%26+Open+Source+Advocate;Building+Accessible+Intelligence+with+%E2%99%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+%26+Tools;MCP+Explorer+%26+Open+Source+Advocate;Making+AI+Accessible+for+Everyone" alt="Typing SVG" />
   
   <!-- Current Focus Badges -->
   <p>

@@ -2,7 +2,7 @@
 
 <div align="center">
   <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px; margin: 0 auto; border: 4px solid #66C4A7; box-shadow: 0 0 20px rgba(102, 196, 167, 0.5);">
-    <img width="200" height="200" src="assets/avi.jpg" alt="Gilbert Cheruiyot" style="object-fit: cover;" />
+    <img width="200" height="200" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/avi.jpg" alt="Gilbert Cheruiyot" style="object-fit: cover;" />
   </div>
 
   <!-- Animated Typing Header -->

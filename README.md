@@ -140,31 +140,31 @@ I'm a Software Engineer and AI Solutions Architect focused on making artificial 
 <div align="center">
   <!-- Language Stats -->
   <h3>💻 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertofke&layout=compact&theme=aura&hide_border=true&langs_count=8" alt="Language Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertofke&layout=compact&theme=transparent&hide_border=true&title_color=66C4A7&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Language Stats"/>
   
   <!-- Technology Usage -->
   <h3>🔥 Technology Proficiency</h3>
-  <table>
+  <table style="background-color: transparent;">
     <tr>
-      <td>AI/ML Development</td>
+      <td><b>AI/ML Development</b></td>
       <td>
         <img src="https://progress-bar.dev/90?title=&color=66C4A7" alt="AI/ML: 90%"/>
       </td>
     </tr>
     <tr>
-      <td>Cloud Architecture</td>
+      <td><b>Cloud Architecture</b></td>
       <td>
         <img src="https://progress-bar.dev/85?title=&color=9C27B0" alt="Cloud: 85%"/>
       </td>
     </tr>
     <tr>
-      <td>Backend Development</td>
+      <td><b>Backend Development</b></td>
       <td>
         <img src="https://progress-bar.dev/80?title=&color=66C4A7" alt="Backend: 80%"/>
       </td>
     </tr>
     <tr>
-      <td>Frontend Development</td>
+      <td><b>Frontend Development</b></td>
       <td>
         <img src="https://progress-bar.dev/75?title=&color=9C27B0" alt="Frontend: 75%"/>
       </td>
@@ -173,17 +173,17 @@ I'm a Software Engineer and AI Solutions Architect focused on making artificial 
 
   <!-- GitHub Stats -->
   <h3>📈 Contribution Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertofke&theme=aura&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertofke&theme=transparent&hide_border=true&stroke=66C4A7&ring=9C27B0&fire=66C4A7&currStreakNum=66C4A7&sideNums=66C4A7&currStreakLabel=9C27B0&sideLabels=9C27B0&dates=ffffff&background=0D1117" alt="GitHub Streak Stats"/>
 </div>
 
 ## Featured Projects 🌟
 
 <div align="center">
   <a href="https://github.com/gilbertofke/mcp-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbertofke&repo=mcp-lab&theme=aura&show_owner=true" alt="MCP Lab"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbertofke&repo=mcp-lab&theme=transparent&hide_border=true&title_color=66C4A7&text_color=ffffff&icon_color=9C27B0&bg_color=0D1117" alt="MCP Lab"/>
   </a>
   <a href="https://github.com/gilbertofke/ai-process-automator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbertofke&repo=ai-process-automator&theme=aura" alt="AI Process Automator"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbertofke&repo=ai-process-automator&theme=transparent&hide_border=true&title_color=66C4A7&text_color=ffffff&icon_color=9C27B0&bg_color=0D1117" alt="AI Process Automator"/>
   </a>
 </div>
 

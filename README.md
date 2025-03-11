@@ -135,6 +135,47 @@ I'm a Software Engineer and AI Solutions Architect focused on making artificial 
 ![AI Projects](https://img.shields.io/badge/Active_AI_Projects-3-9C27B0)
 ![Contributions](https://img.shields.io/badge/Weekly_Contributions-15-66C4A7)
 
+## Technology Leaderboard 🏆
+
+<div align="center">
+  <!-- Language Stats -->
+  <h3>💻 Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertofke&layout=compact&theme=aura&hide_border=true&langs_count=8" alt="Language Stats"/>
+  
+  <!-- Technology Usage -->
+  <h3>🔥 Technology Proficiency</h3>
+  <table>
+    <tr>
+      <td>AI/ML Development</td>
+      <td>
+        <img src="https://progress-bar.dev/90?title=&color=66C4A7" alt="AI/ML: 90%"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Cloud Architecture</td>
+      <td>
+        <img src="https://progress-bar.dev/85?title=&color=9C27B0" alt="Cloud: 85%"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Backend Development</td>
+      <td>
+        <img src="https://progress-bar.dev/80?title=&color=66C4A7" alt="Backend: 80%"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Frontend Development</td>
+      <td>
+        <img src="https://progress-bar.dev/75?title=&color=9C27B0" alt="Frontend: 75%"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- GitHub Stats -->
+  <h3>📈 Contribution Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertofke&theme=aura&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
 ## Featured Projects 🌟
 
 <div align="center">

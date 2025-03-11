@@ -43,12 +43,12 @@
 
 ## About Me 🚀
 
-I'm a Software Engineer and AI Solutions Architect passionate about building intelligent systems and automating development workflows. I specialize in:
+I'm a Software Engineer and AI Solutions Architect focused on making artificial intelligence practical and accessible. I specialize in:
 
-- 🤖 **AI & Automation**: Building cognitive systems and ML pipelines
-- ☁️ **Cloud & DevOps**: AWS, Kubernetes, CI/CD automation
-- 🛠️ **Software Development**: Full-stack with React/Next.js, TypeScript, Python
-- ✍️ **Technical Writing**: Sharing knowledge on [Hashnode](https://hashnode.com/@gilbertofke) and [Medium](https://medium.com/@gilbertofke)
+- 🤖 **AI & Automation**: Building practical AI solutions that solve real business problems and enhance individual productivity
+- 🛠️ **AI-Enhanced Development**: Leveraging tools like Cursor AI and Lovable.dev to revolutionize how we build software
+- ☁️ **AI-Powered DevOps**: Implementing intelligent automation in cloud infrastructure and deployment pipelines
+- ✍️ **Technical Writing**: Sharing insights on practical AI applications on [Hashnode](https://hashnode.com/@gilbertofke) and [Medium](https://medium.com/@gilbertofke)
 
 ## Tech Stack & Tools 🛠️
 
@@ -86,19 +86,19 @@ I'm a Software Engineer and AI Solutions Architect passionate about building int
 <div align="center">
   <table>
     <tr>
-      <td>MCP Server Patterns</td>
+      <td>AI-Powered Development with Cursor & Lovable.dev</td>
       <td>
-        <img src="https://progress-bar.dev/80?title=progress&color=66C4A7" alt="Progress 80%"/>
+        <img src="https://progress-bar.dev/85?title=progress&color=66C4A7" alt="Progress 85%"/>
       </td>
     </tr>
     <tr>
-      <td>AI-Enhanced DevOps</td>
+      <td>Practical AI Solutions for Business</td>
       <td>
-        <img src="https://progress-bar.dev/60?title=progress&color=9C27B0" alt="Progress 60%"/>
+        <img src="https://progress-bar.dev/70?title=progress&color=9C27B0" alt="Progress 70%"/>
       </td>
     </tr>
     <tr>
-      <td>Cloud Native Development</td>
+      <td>AI-Enhanced Cloud Architecture</td>
       <td>
         <img src="https://progress-bar.dev/75?title=progress&color=66C4A7" alt="Progress 75%"/>
       </td>

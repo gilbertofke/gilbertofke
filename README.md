@@ -60,6 +60,29 @@ I'm a Software Engineer and AI Solutions Architect focused on making artificial 
     <img src="https://img.shields.io/badge/LangChain-66C4A7?style=flat-square" alt="LangChain"/>
     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square" alt="HuggingFace"/>
+    <img src="https://img.shields.io/badge/Anthropic-0B0D12?style=flat-square" alt="Anthropic"/>
+    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+    <img src="https://img.shields.io/badge/MCP_Servers-9C27B0?style=flat-square" alt="MCP Servers"/>
+  </p>
+
+  <!-- No-Code & Automation -->
+  <h3>🔧 No-Code & Automation</h3>
+  <p>
+    <img src="https://img.shields.io/badge/SmythOS-66C4A7?style=flat-square" alt="SmythOS"/>
+    <img src="https://img.shields.io/badge/Databutton-FF6B6B?style=flat-square" alt="Databutton"/>
+    <img src="https://img.shields.io/badge/Levity_AI-4A90E2?style=flat-square" alt="Levity"/>
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"/>
+    <img src="https://img.shields.io/badge/Make.com-3333FF?style=flat-square" alt="Make.com"/>
+  </p>
+
+  <!-- Web Scraping & Automation -->
+  <h3>🕷️ Web Scraping & Automation</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+    <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square" alt="Scrapy"/>
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"/>
+    <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
+    <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=flat-square" alt="Beautiful Soup"/>
   </p>
 
   <!-- Cloud & DevOps -->

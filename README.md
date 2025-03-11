@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- AI-Themed Header -->
-  <img width="100%" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/ai-header.svg" alt="AI Theme Header" />
+  <img width="100%" src="./assets/ai-header.svg" alt="AI Theme Header" />
 
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=AI+Solutions+Architect+%26+Engineer;Building+Intelligent+Systems;Making+AI+Accessible+%26+Practical" alt="Typing SVG" />
@@ -38,7 +38,7 @@
 
 <!-- Wave Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/wave.svg" width="100%" height="50" alt="wave divider"/>
+  <img src="./assets/wave.svg" width="100%" height="50" alt="wave divider"/>
 </div>
 
 ## About Me 🚀
@@ -140,7 +140,7 @@ I'm a Software Engineer and AI Solutions Architect focused on making artificial 
 <div align="center">
   <!-- Language Stats -->
   <h3>💻 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertofke&layout=compact&theme=transparent&hide_border=true&title_color=66C4A7&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Language Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gilbertofke&layout=compact&theme=dark&hide_border=true&title_color=66C4A7&text_color=ffffff&icon_color=9C27B0&bg_color=0D1117&langs_count=8" alt="Language Stats"/>
   
   <!-- Technology Usage -->
   <h3>🔥 Technology Proficiency</h3>
@@ -173,17 +173,17 @@ I'm a Software Engineer and AI Solutions Architect focused on making artificial 
 
   <!-- GitHub Stats -->
   <h3>📈 Contribution Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertofke&theme=transparent&hide_border=true&stroke=66C4A7&ring=9C27B0&fire=66C4A7&currStreakNum=66C4A7&sideNums=66C4A7&currStreakLabel=9C27B0&sideLabels=9C27B0&dates=ffffff&background=0D1117" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=gilbertofke&theme=dark&hide_border=true&stroke=66C4A7&ring=9C27B0&fire=66C4A7&currStreakNum=66C4A7&sideNums=66C4A7&currStreakLabel=9C27B0&sideLabels=9C27B0&dates=ffffff&background=0D1117" alt="GitHub Streak Stats"/>
 </div>
 
 ## Featured Projects 🌟
 
 <div align="center">
   <a href="https://github.com/gilbertofke/mcp-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbertofke&repo=mcp-lab&theme=transparent&hide_border=true&title_color=66C4A7&text_color=ffffff&icon_color=9C27B0&bg_color=0D1117" alt="MCP Lab"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gilbertofke&repo=mcp-lab&theme=dark&hide_border=true&title_color=66C4A7&text_color=ffffff&icon_color=9C27B0&bg_color=0D1117" alt="MCP Lab"/>
   </a>
   <a href="https://github.com/gilbertofke/ai-process-automator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbertofke&repo=ai-process-automator&theme=transparent&hide_border=true&title_color=66C4A7&text_color=ffffff&icon_color=9C27B0&bg_color=0D1117" alt="AI Process Automator"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gilbertofke&repo=ai-process-automator&theme=dark&hide_border=true&title_color=66C4A7&text_color=ffffff&icon_color=9C27B0&bg_color=0D1117" alt="AI Process Automator"/>
   </a>
 </div>
 

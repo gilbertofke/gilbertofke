@@ -163,6 +163,21 @@ I'm a Software Engineer and AI Solutions Architect focused on making artificial 
   </a>
 </div>
 
+## Support My Work ☕
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/gilbertofke" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
+  </a>
+</div>
+
+<div align="center">
+  <p>Your support helps me create more AI tools and educational content!</p>
+</div>
+
+<!--START_SECTION:buy-me-a-coffee-->
+<!--END_SECTION:buy-me-a-coffee-->
+
 ---
 
 <div align="center">

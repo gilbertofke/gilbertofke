@@ -5,7 +5,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/ai-header.svg" alt="AI Theme Header" />
 
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=AI+Solutions+Architect+%26+Engineer;Building+Intelligent+Systems;Making+AI+Accessible+%26+Practical" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=AI+Full Stack+%26+Engineer;Building+Intelligent+Systems;Making+AI+Accessible+%26+Practical" alt="Typing SVG" />
   
   <!-- Enhanced Focus Badges -->
   <p style="margin: 30px 0;">
@@ -18,7 +18,7 @@
   <blockquote>
     <p align="center">
       "Bridging the gap between complex AI systems and practical solutions through <strong>innovative architectures</strong> and <strong>accessible tools</strong>.<br>
-      Committed to making AI technology <em>understandable</em>, <em>practical</em>, and <em>accessible to all developers</em>."
+      Committed to making AI technology <em>understandable</em>, <em>practical</em>, and <em>accessible to all</em>."
     </p>
   </blockquote>
 

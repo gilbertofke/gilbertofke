@@ -5,7 +5,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/gilbertofke/gilbertofke/main/assets/ai-header.svg" alt="AI Theme Header" />
 
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Practical+AI+Automation+Solutions;Developing+AI+Agents;Innovating+with+MCP+Servers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=66C4A7&center=true&vCenter=true&width=800&lines=AI+Engineer;Building+Practical+AI+Automation;Developing+AI+Agents;Innovating+with+MCP+Servers" alt="Typing SVG" />
 </div>
   <!-- Enhanced Focus Badges -->
   <p style="margin: 30px 0;">

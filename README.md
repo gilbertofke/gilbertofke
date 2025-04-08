@@ -46,8 +46,9 @@
 I'm a Software Engineer and AI Solutions Architect focused on making artificial intelligence practical and accessible. I specialize in:
 
 - 🤖 **AI & Automation**: Building practical AI solutions that solve real business problems and enhance individual productivity
-- 🛠️ **AI-Enhanced Development**: Leveraging tools like Cursor AI and Lovable.dev to revolutionize how we build software
-- ☁️ **AI-Powered DevOps**: Implementing intelligent automation in cloud infrastructure and deployment pipelines
+- 🛠️ **AI-Enhanced Development**: Leveraging agentic tools like Lovable, Replit, v0, Cursor AI, and frameworks like LlamaIndex to improve the speed and efficiency in building software
+- ☁️ **AI-Powered DevOps**: Implementing intelligent automation in cloud infrastructure and deployment pipelines using AI-enhanced DevOps Practices
+- 🧩 **AI Agents & Enterprise Data**: Creating AI agents on top of enterprise data to make agentic AI work for businesses
 - ✍️ **Technical Writing**: Sharing insights on practical AI applications on [Hashnode](https://hashnode.com/@gilbertofke) and [Medium](https://medium.com/@gilbertofke)
 
 ## Tech Stack & Tools 🛠️

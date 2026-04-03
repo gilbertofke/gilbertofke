@@ -4,35 +4,35 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=2E86AB&center=true&vCenter=true&width=900&lines=Building+AI+agent+systems+that+think+and+act;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Multi-Agent+Architecture;Turning+business+data+into+intelligent+decisions;AWS+%7C+LangChain+%7C+Python+%7C+pgvector" />
 
+
 <br/>
 
-[
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/gilbert-cheruiyot-1a44781a0)
-[
+
+
 
 ![Email](https://img.shields.io/badge/Email-gilbertofke@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:gilbertofke@gmail.com)
-[
+
+
 
 ![Twitter](https://img.shields.io/badge/X-@tangus__jr-000000?style=for-the-badge&logo=x&logoColor=white)
 
-](https://twitter.com/tangus_jr)
-[
+
+
 
 ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-](#)
+
 
 <br/>
 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gilbertofke&style=for-the-badge&color=2E86AB&label=PROFILE+VIEWS)
-
 
 
 </div>

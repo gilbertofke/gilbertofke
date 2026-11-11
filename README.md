@@ -19,9 +19,12 @@
 
 I follow a product from its first line of code to its monthly bill. Full stack, DevOps and site reliability work taught me to build for users, ship reliably and count the cost. I now apply that to AI agents, retrieval systems and inference. I am based in Nairobi, Kenya, and open to remote roles and consulting.
 
-## Building now
+## Pinned projects
 
-**Bodata AI** is a low-cost inference platform for e-mobility fleet telemetry. The build starts now, and I will publish its design decisions and measured results here as they exist.
+| Project | What it is |
+|---|---|
+| [Bodata AI](https://github.com/gilbertofke/bodata-ai) | A low-cost inference platform for e-mobility fleet telemetry, built in public with measured results. The build starts now. |
+| [sparkgap](https://github.com/gilbertofke/sparkgap) | Experiments with M-Pesa Daraja STK push callbacks, including a callback catcher deployed on Vercel. |
 
 ## Tech stack
 

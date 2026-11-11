@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI systems engineer</b><br/>
-  I build AI products and the infrastructure they run on.
+  Agents, retrieval and inference, built in the open.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About
 
-I follow a product from its first line of code to its monthly bill. Full stack, DevOps and site reliability work taught me to build for users, ship reliably and count the cost. I now apply that to AI agents, retrieval systems and inference. I am based in Nairobi, Kenya, and open to remote roles and consulting.
+This is where the work happens. I am building Bodata AI, an inference platform for e-mobility fleet telemetry, and I will publish the code, benchmarks and design decisions as they exist. I also keep small experiments here, such as sparkgap, to test ideas against real payment and integration problems before they grow into anything bigger. For anything else, the links above are the fastest way to reach me.
 
 ## Pinned projects
 
@@ -25,6 +25,18 @@ I follow a product from its first line of code to its monthly bill. Full stack, 
 |---|---|
 | [Bodata AI](https://github.com/gilbertofke/bodata-ai) | A low-cost inference platform for e-mobility fleet telemetry, built in public with measured results. The build starts now. |
 | [sparkgap](https://github.com/gilbertofke/sparkgap) | Experiments with M-Pesa Daraja STK push callbacks, including a callback catcher deployed on Vercel. |
+
+## The standard for every project I ship
+
+Experiments are exempt until they graduate. Everything else gets the following.
+
+- **A README that states the problem**, the architecture, and how to run it in three commands.
+- **A verify command** that reproduces the headline result on your machine.
+- **Benchmarks with their conditions**, meaning hardware, dataset, seed and what failed.
+- **Architecture decision records** in `docs/adr`, so every trade-off can be challenged.
+- **CI on every push**, with lint and tests that must pass before merge.
+- **Tracing, metrics and cost per request** for anything that calls a model.
+- **Small, signed commits** with clear messages and pull requests that explain why.
 
 ## Tech stack
 
@@ -45,7 +57,6 @@ I follow a product from its first line of code to its monthly bill. Full stack, 
 - **Access is part of the design.** Each agent acts only within the tenant and permissions of the person it serves.
 - **Decisions are written down.** I record trade-offs so the next person can challenge them.
 - **Test the certain, evaluate the uncertain.** Deterministic code gets tests and model behaviour gets evals.
-- **Blockers surface the same day** with a proposed fix attached.
 
 ## How I learn
 
@@ -56,4 +67,4 @@ I follow a product from its first line of code to its monthly bill. Full stack, 
 
 ## Writing and docs
 
-I publish engineering write-ups on [Hashnode](https://hashnode.com/@gilbertofke) and [Medium](https://medium.com/@gilbertofke). Project documentation will live beside the code, with design decisions recorded in each repository. More at [tangus.vercel.app](https://tangus.vercel.app).
+Write-ups go on [Hashnode](https://hashnode.com/@gilbertofke) and [Medium](https://medium.com/@gilbertofke). Project documentation lives beside the code, with design decisions recorded in each repository.

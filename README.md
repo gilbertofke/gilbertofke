@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tangus.me">Portfolio</a> ·
+  <a href="https://tangus.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/gilbert-cheruiyot-1a44781a0/">LinkedIn</a> ·
   <a href="https://medium.com/@gilbertofke">Medium</a> ·
   <a href="mailto:gilbertofke@gmail.com">Email</a>

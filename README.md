@@ -21,8 +21,7 @@
 
 ## About
 
-I build and operate AI systems from the data and the model to the infrastructure, the guardrails and the bill. I work with open models on my own hardware, with managed cloud services and with hosted APIs, because the right choice depends on the data, the rules and the cost per outcome. I publish code, benchmarks and failure drills as they exist, and I say plainly what was simulated.
-
+I build and operate AI systems from the data and the model to the infrastructure, the guardrails and the bill. I work with open models on my own hardware, with managed cloud services and with hosted APIs, because the right choice depends on the data, the rules and the cost per outcome. I publish code, benchmarks and failure drills as they exist.
 ## What I work on
 
 | Focus | What it means in practice |

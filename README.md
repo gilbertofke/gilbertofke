@@ -24,8 +24,7 @@
 This is where the work happens. I build and operate AI systems end to end, from the data and the model to the infrastructure, the guardrails and the bill. I work across open models on my own hardware, managed cloud services and hosted APIs, and the hybrids in between, because the right answer depends on the data, the regulator and the unit economics. I publish code, benchmarks, failure drills and design decisions as they exist.
 
 ## Kipimo, how I measure AI systems
-
-*Kipimo* is Swahili for a measurement. Every system I ship reports the same five meters, with the conditions behind each number, so any two designs can be compared fairly.
+Every system I ship reports the same five meters, with the conditions behind each number, so any two designs can be compared fairly.
 
 | Meter | The question | Reported as |
 |---|---|---|

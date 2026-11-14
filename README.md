@@ -35,7 +35,7 @@ I build and operate AI systems from the data and the model to the infrastructure
 
 | Project | What it is | Status |
 |---|---|---|
-| [PikiBytes](https://github.com/gilbertofke/pikibytes) | Open-source early warning for fleet battery telemetry. Explainable detectors decide, and a local open-weight model explains. Includes RAG, read-only tools, an audit log with replay, and a Helm chart rehearsed on a three-node KIND cluster. | 28-day public build from 16 November 2026, on simulated telemetry |
+| [PikiBytes](https://github.com/gilbertofke/pikibytes) | Open-source early warning for fleet battery telemetry. Explainable detectors decide, and a local open-weight model explains. Includes RAG, read-only tools, an audit log with replay, and a Helm chart rehearsed on a three-node KIND cluster. | In Progress|
 
 More projects will be added here once they ship with results.
 
